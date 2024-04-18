@@ -1,5 +1,8 @@
 package com.itwillbs.test_kmj;
 
-public class cjwController {
+import org.springframework.stereotype.Controller;
 
+@Controller
+public class cjwController {
+ 
 }
