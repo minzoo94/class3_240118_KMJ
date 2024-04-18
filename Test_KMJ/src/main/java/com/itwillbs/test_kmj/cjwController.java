@@ -6,4 +6,5 @@ import org.springframework.stereotype.Controller;
 public class cjwController {
 	//주석처리 김정은 동지
 	//목요일
+	얍얍!
 }
